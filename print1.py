@@ -1,0 +1,9 @@
+a=50
+b=30
+print("a+b={0}".format(a+b))
+s="Alex"
+print(s[-1])
+nn=[1,2,3,4,5,6,7,8,9,10]
+print(nn)
+nn[-3:]=[11,12,13]
+print(nn)
